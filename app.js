@@ -6,4 +6,4 @@
     Greetr.init = function (firstName, lastName, language) {
         
     }
-})
+});
